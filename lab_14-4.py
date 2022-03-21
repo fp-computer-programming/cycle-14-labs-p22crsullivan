@@ -1,6 +1,5 @@
 # Author: CRS 03/18/22
 # Import turtle
-from email.policy import default
 import turtle
 
 # Create the window
